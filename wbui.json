@@ -17,12 +17,22 @@
 		"tabs": [
 			{
 				"layout": 1,
+				"buttontext": "Player List",
+				"imageurl": "",
+				"content": [
+					{
+						"title": "Player List",
+						"text": "{playerlist}"
+					}
+				]
+			}
+			{
+				"layout": 1,
 				"buttontext": "Welcome",
 				"imageurl": "AF.png",
 				"content": [
 					{
 						"title": "Welcome to the Cursed Ark!",
-						"text": "{playerlist}"
 						"text": "The Cursed Ark is a PvPvE ASA server with a friendly and active community, rates balanced for a busy life, fair and enforced rules, Quality of Life mods to reduce the needless busy work, a ton of dino mods balanced to vanilla perfection, and weekly events to help you get involved with the community!\r\n\r\nThe server is also CROSSPLAY!\r\nMeaning everyone on EVERY console can play with each other.\r\n\r\nI would recommend joining the Discord, which is linked in this menu. It's where the community interacts the most.\r\n\r\n\r\nWipe Info\r\n\r\nWipes occur at no scheduled time.\r\nThe Decision to wipe is up to the admin and the date is chosen at random. Questions about future wipe dates will not be answered.\r\n\r\nFor those who are curious what PvPvE means.\r\n\r\nIt means that this server is a place for PvP and PvE. Both actions are encouraged.\r\nThere will be periods of war and periods of peace, as is with a server where no one is expected to behave in any certain way.\r\nIn many ways, this is somewhat of an anarchy server in that regard."
 					},
 					{
@@ -162,7 +172,7 @@
 						"text": "This is a list of known bugs on the server.\r\nYou can report any not listed here by making a ticket in the tickets channel in the Discord.\r\n\r\n\r\nShop will often only display 50 packages. To fix this you need to kill yourself with the specimen implant suicide function.\r\n\r\nDo not put vanilla cryos in upload as you wont be able to take them out."
 					}
 				]
-			}
+			},
 		],
 		"links": [
 			{
