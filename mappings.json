@@ -1,0 +1,8 @@
+{
+  "dinoMappings": [
+    {
+      "fromClass": "/Game/Extinction/Dinos/IceJumper/IceJumper_Character_BP.IceJumper_Character_BP",
+      "toClass": "/OGManas/OGIceJumper_Character_BP.OGIceJumper_Character_BP"
+    }
+  ]
+}
